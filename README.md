@@ -1,4 +1,6 @@
 # Currency-Converter
-##About this app  A simple user-friendly web App providing real-time currency conversion between 150+ countries.  Get up-to-date currency information at your fingertips as this app fetches latest exchange rates from an external API.
+## About this app  
+A simple user-friendly web App providing real-time currency conversion between 150+ countries.  
+Get up-to-date currency information at your fingertips as this app fetches latest exchange rates from an external API.
 
-**Try it** [This is a link]([https://example.com](https://priyanshu1-62.github.io/Currency-Converter/))
+**Try it** https://priyanshu1-62.github.io/Currency-Converter/
